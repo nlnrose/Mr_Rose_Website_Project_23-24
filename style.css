@@ -8,6 +8,8 @@ h1{
 }
 div{
   background-color:#ebe1ca;
+  padding: 30px;
+  border-radius: 15px;
 }
 p{
   text-align: center;
