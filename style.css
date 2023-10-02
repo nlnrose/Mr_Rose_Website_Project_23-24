@@ -4,6 +4,8 @@ body{
   margin-right: 30px;
   }
 h1{
+  text-align: center;
+  padding: 30px;
   background-color:#ebe1ca;
 }
 div{
