@@ -7,6 +7,8 @@ h1{
   text-align: center;
   padding: 30px;
   background-color:#ebe1ca;
+  border-radius: 15px;
+  margin: 15px;
 }
 div{
   background-color:#ebe1ca;
