@@ -22,3 +22,12 @@ p{
 #page-1-image{
   animation-name: bounce;
 }
+@keyframes bounce
+{
+    from {
+        left: 0px;
+    }
+    to {
+        left: 30px;
+    }
+}
