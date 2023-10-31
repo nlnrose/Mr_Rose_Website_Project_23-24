@@ -20,7 +20,7 @@ p{
   text-align: center;
 }
 #page-1-image{
-  animation-name: fade-in;
+  animation-name: fade-in 5s;
 }
 @keyframes fade-in
 {
