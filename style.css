@@ -19,3 +19,6 @@ div{
 p{
   text-align: center;
 }
+img{
+  animation-name: bounce;
+}
