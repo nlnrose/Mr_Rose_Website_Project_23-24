@@ -20,14 +20,14 @@ p{
   text-align: center;
 }
 #page-1-image{
-  animation-name: bounce;
+  animation-name: fade-in;
 }
-@keyframes bounce
+@keyframes fade-in
 {
     from {
-        left: 0px;
+        opacity: 0;
     }
     to {
-        left: 30px;
+        opacity: 1;
     }
 }
