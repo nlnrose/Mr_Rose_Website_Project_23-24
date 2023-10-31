@@ -21,7 +21,7 @@ p{
 }
 #page-1-image{
   animation: fade-in 5s;
-  -webkit-animation: fadeIn 5s;
+  -webkit-animation: fade-in 5s;
 }
 @keyframes fade-in
 {
