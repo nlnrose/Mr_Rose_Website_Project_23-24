@@ -16,9 +16,7 @@ div{
   border-radius: 15px;
   margin: 15px;
 }
-p{
-  text-align: center;
-}
+
 #page-1-image{
   animation: fade-in 5s;
 }
