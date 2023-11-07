@@ -57,5 +57,5 @@ div{
 .btn:hover{
   transform: translateY(10px);
   background-color:#07497a;
-  color:#ebe1ca;
+  color:#000000;
 }
