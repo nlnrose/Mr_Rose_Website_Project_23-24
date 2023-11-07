@@ -52,3 +52,6 @@ div{
   text-color:#07497a;
   background-color:#ebe1ca;
 }
+.btn:hover{
+  transform: translateY(10px);
+}
