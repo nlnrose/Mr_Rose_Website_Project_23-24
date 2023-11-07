@@ -51,6 +51,8 @@ div{
   font-size: 2 rem;
   text-color:#07497a;
   background-color:#ebe1ca;
+  color:#07497a;
+  transition: tranform .5s
 }
 .btn:hover{
   transform: translateY(10px);
