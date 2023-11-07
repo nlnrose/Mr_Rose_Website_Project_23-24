@@ -51,7 +51,7 @@ div{
   font-size: 2 rem;
   text-color:#07497a;
   background-color:#ebe1ca;
-  color:#07497a;
+  color:#800080;
   transition: transform .5s
 }
 .btn:hover{
