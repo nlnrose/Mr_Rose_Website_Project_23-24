@@ -7,5 +7,5 @@ function changeText(){
 }
 
 function printToConsole(input) {
-    alert(input);
+    window.alert(input);
 }
