@@ -13,5 +13,6 @@ function changeText(){
 function printToConsole(input) {
     //window.alert(input);
     window.alert(person);
+  console.log(person);
 }
 
