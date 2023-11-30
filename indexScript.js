@@ -1,5 +1,9 @@
 let nameOfElement;
 nameOfElement = "demo";
+const person = {
+  firstName: "John",
+  lastName: "Doe"
+};
 
 function changeText(){
   document.getElementById(nameOfElement).innerHTML = "This is a bucket.";
@@ -8,8 +12,6 @@ function changeText(){
 
 function printToConsole(input) {
     //window.alert(input);
-    window.alert(2+3);//5
-    window.alert("2"+"3");//23
-    window.alert("2+3");//2+3
-  
+    window.alert(person);
 }
+
