@@ -8,6 +8,8 @@ function changeText(){
 
 function printToConsole(input) {
     //window.alert(input);
-    window.alert(2+3);
-    window.alert("2"+"3");
+    window.alert(2+3);//5
+    window.alert("2"+"3");//23
+    window.alert("2+3");//2+3
+  
 }
