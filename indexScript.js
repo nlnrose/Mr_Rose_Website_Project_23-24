@@ -1,8 +1,9 @@
 let nameOfElement;
 nameOfElement = "demo";
-const person = {
-  firstName: "John",
-  lastName: "Doe"
+let person = {
+  name: "John",
+  age: 35,
+  favoriteColor: "blue"
 };
 
 function changeText(){
@@ -12,7 +13,8 @@ function changeText(){
 
 function printToConsole(input) {
     //window.alert(input);
-    window.alert(person.firstName);
+    window.alert(person.firstName+);
   console.log(person);
 }
+
 
